@@ -1,0 +1,41 @@
+_id: req_181ed1089fba4361889d0ed9cb8f35ea
+type: Request
+parentId: fld_8cfb17cf548040d8bce41e692a5156d2
+modified: 1650024040951
+created: 1649851513215
+url: http://host-002.com/api/product?price=2000,3000
+name: Read
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_af617267ba104a14b4b1168aab8ff969
+    name: categoryId
+    value: "3"
+    description: ""
+    disabled: true
+  - id: pair_de13416f381749e59dfce1506141f5a0
+    name: categoryName
+    value: category3
+    description: ""
+    disabled: true
+  - id: pair_31a0e3dd10ea45f8b4986c5ef355ec98
+    name: active
+    value: "false"
+    description: ""
+    disabled: true
+  - id: pair_dbd5103e07124d82ac29c335b1346f37
+    name: price
+    value: 2000,3000
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1649851513215
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

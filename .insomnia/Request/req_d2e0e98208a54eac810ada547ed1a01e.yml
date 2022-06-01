@@ -1,0 +1,30 @@
+_id: req_d2e0e98208a54eac810ada547ed1a01e
+type: Request
+parentId: fld_8cfb17cf548040d8bce41e692a5156d2
+modified: 1650024057226
+created: 1649851538249
+url: http://host-002.com/api/product/8
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"category": [4,5],
+    	"name": "8"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7f1348ed04964ecaa808f91fa899a3fd
+authentication: {}
+metaSortKey: -1649851513165
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

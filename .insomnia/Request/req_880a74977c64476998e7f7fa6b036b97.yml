@@ -1,0 +1,32 @@
+_id: req_880a74977c64476998e7f7fa6b036b97
+type: Request
+parentId: fld_8cfb17cf548040d8bce41e692a5156d2
+modified: 1650022496492
+created: 1649851526018
+url: http://host-002.com/api/product
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "tir5675f334вlk",
+    	"price": 2223,
+    	"active": true,
+    	"category": [3,8]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ab4e088d012142a2bc32daa777c56d97
+authentication: {}
+metaSortKey: -1649851513265
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

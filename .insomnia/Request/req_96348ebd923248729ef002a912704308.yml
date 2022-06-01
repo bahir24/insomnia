@@ -1,0 +1,37 @@
+_id: req_96348ebd923248729ef002a912704308
+type: Request
+parentId: fld_4e109c0e99ea4a119fe897b06fb4edb7
+modified: 1653566028368
+created: 1649854301303
+url: http://fundnew.wemakefab.ru/gravityformsapi/forms/1/submissions
+name: Update
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "input_values": {
+    			"input_7": "Test2@mail.com",
+    			"input_9": "test name"
+        }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1f2cdeecd3834576875e70023c14f372
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1649851513165
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

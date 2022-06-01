@@ -1,0 +1,30 @@
+_id: req_181a1b1ec1fa47878638c379c74c166f
+type: Request
+parentId: fld_4e109c0e99ea4a119fe897b06fb4edb7
+modified: 1653566109148
+created: 1649854301300
+url: http://host-002.com/api/category
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "carrt4222gory",
+    	"active": false
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_51b6b4e5887149c2af92ca3aceeafd18
+authentication: {}
+metaSortKey: -1649851513265
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

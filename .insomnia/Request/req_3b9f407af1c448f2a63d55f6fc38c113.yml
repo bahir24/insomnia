@@ -1,0 +1,31 @@
+_id: req_3b9f407af1c448f2a63d55f6fc38c113
+type: Request
+parentId: fld_4e109c0e99ea4a119fe897b06fb4edb7
+modified: 1653566144057
+created: 1649854301305
+url: http://host-002.com/api/category/9
+name: Delete
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_ca5b8e3da6b3443cae26873c3bbd2eaf
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_42b359f2fd9e442685f5a642412b245b
+authentication:
+  type: bearer
+metaSortKey: -1649851513115
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
